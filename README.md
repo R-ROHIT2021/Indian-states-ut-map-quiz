@@ -15,18 +15,23 @@ The quiz is developed using the Turtle graphics library for visual elements and 
 ◦ Shows all answers at the end of the quiz.
 
 # Installation
-Clone the repository: git clone https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz.git
-
+Clone the repository: `git clone https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz.git`
 Install Python: python.org
 
 pandas library (pip install pandas)
 
 turtle library (usually included in standard Python distribution)
 
-Install required packages: pip install -r requirements.txt
+Install required packages: `pip install -r requirements.txt`
 
 # Usage
-Run the game: python main.py
+Run the game: `python main.py`
 
 # Data
 The quiz questions and answers are stored in a CSV file (quiz_data.csv).
+
+## Contributing
+We welcome contributions, bug reports, and suggestions from the GitHub community. 
+
+## Credits
+- Inspired by [U.S States Game Tutorial] by Dr. Angela Yu
