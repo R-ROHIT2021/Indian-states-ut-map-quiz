@@ -36,5 +36,5 @@ We welcome contributions, bug reports, and suggestions from the GitHub community
 ## Credits
 - Inspired by [U.S States Game Tutorial] by Dr. Angela Yu
 
-![Quiz Screenshot](screenshots/quiz_screenshot.png)
+![Quiz Screenshot](https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz/blob/main/india_states1.gif)
 
