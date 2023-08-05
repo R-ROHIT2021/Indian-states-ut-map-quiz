@@ -4,7 +4,7 @@ This is a Python-based quiz game that tests your knowledge about the states and 
 The quiz is developed using the Turtle graphics library for visual elements and Pandas for managing the quiz data.
 
 ## Quiz Screenshot
-![Quiz Screenshot]([https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz/blob/main/india_states1.gif](https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz/blob/main/Screenshot.png)
+![Quiz Screenshot](https://github.com/R-ROHIT2021/Indian-states-ut-map-quiz/blob/main/Screenshot.png)
 
 ## Features
 - Quiz game with questions about Indian states and union territories.
