@@ -3,9 +3,13 @@ This is a Python-based quiz game that tests your knowledge about the states and 
 
 # Features
 ◦ Quiz game with questions about Indian states and union territories.
+
 ◦ Interactive GUI using the Turtle graphics library.
+
 ◦ Questions are loaded from a CSV file using Pandas.
+
 ◦ Displays the correct percentage upon exiting the quiz.
+
 ◦ Shows all answers at the end of the quiz.
 
 # Installation
